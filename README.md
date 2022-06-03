@@ -1,2 +1,2 @@
 # AppiumTestsForSummator
-# This repo contains UI Automated tests for the SummatorDesktopApp
+## This repo contains UI Automated tests for the SummatorDesktopApp
